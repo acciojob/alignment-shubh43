@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+p{
+    margin:0;
+    text-align: center;
+    font-weight: 600;
+}
+#t-image>td{
+    text-align: center;
+}
+#table-2 td{
+    padding: 10px;
+}
+#table-3 td{
+    padding: 10px;
+}
